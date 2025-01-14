@@ -31,8 +31,8 @@ distributions of the subsurface.
 We integrated these recovered models to estimate the carbon sequestration
 potential of the rocks.
 
-We applied independent Tikhonov inversions to both the gravity and magnetic
-datasets along with a joint Petrophysically-Guided Inversions (PGI).
+We applied independent Tikhonov inversions to both the gravity gradiometry and
+magnetic datasets along with a joint Petrophysically-Guided Inversions (PGI).
 We trained a regression model to predict spatial distributions of Loss of
 Ignition (LOI) values in the subsurface from the inverted results of density
 and magnetic susceptibility.
