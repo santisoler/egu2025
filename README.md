@@ -1,5 +1,23 @@
 # 3D geophysical inversions to characterize carbon sequestration potential of ultramafic rocks
 
+Santiago R. Soler<sup>1</sup>,
+Joseph Capriotti<sup>2</sup>,
+Douglas Oldenburg<sup>1</sup>,
+and Lindsey Heagy<sup>1</sup>
+
+> <sup>1<\sup> Earth, Ocean and Atmospheric Sciences, University of British
+> Columbia, Vancouver, Canada
+> <br>
+> <sup>2</sup> Center for Gravity, Electrical, and Magnetic Studies (CGEM),
+> Colorado School of Mines, Colorado, United States
+
+| | Information |
+|---:|:----|
+| doi | TBD |
+| Abstract | EGU25-13551 |
+| Session | [ERE3.7 Carbon capture and storage in mafic and ultramafic rocks][ere3.7] |
+| When | TBD |
+
 Carbon mineralization in ultramafic rocks has been proven to be one of the ways
 of sequestering CO<sub>2</sub> from the atmosphere to mitigate climate change
 effects and limit global temperature increases to values compatible with life
@@ -52,3 +70,15 @@ Geophysical data acquisition and 3D inversions can be used as a meaningful
 source of knowledge that can complement the geologic exploration, drilling
 planning phases, and decision-making for carbon sequestration feasibility in
 a given area.
+
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[ere3.7]: https://meetingorganizer.copernicus.org/EGU25/session/52677
