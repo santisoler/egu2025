@@ -5,7 +5,7 @@ Joseph Capriotti<sup>2</sup>,
 Douglas Oldenburg<sup>1</sup>,
 and Lindsey Heagy<sup>1</sup>
 
-> <sup>1<\sup> Earth, Ocean and Atmospheric Sciences, University of British
+> <sup>1</sup> Earth, Ocean and Atmospheric Sciences, University of British
 > Columbia, Vancouver, Canada
 > <br>
 > <sup>2</sup> Center for Gravity, Electrical, and Magnetic Studies (CGEM),
