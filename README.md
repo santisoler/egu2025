@@ -13,10 +13,12 @@ and Lindsey Heagy<sup>1</sup>
 
 | | Information |
 |---:|:----|
-| doi | TBD |
-| Abstract | EGU25-13551 |
+| doi | [10.5194/egusphere-egu25-13551][doi] |
+| Abstract | [EGU25-13551][egu25-13551] |
 | Session | [ERE3.7 Carbon capture and storage in mafic and ultramafic rocks][ere3.7] |
-| When | TBD |
+| Where | Hall X4, X4.96 |
+| When | Thursday, 01 May, 16:15–18:00 (CEST) |
+| Display time | Thursday, 01 May, 14:00–18:00 (CEST) |
 
 Carbon mineralization in ultramafic rocks has been proven to be one of the ways
 of sequestering CO<sub>2</sub> from the atmosphere to mitigate climate change
@@ -82,3 +84,5 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [ere3.7]: https://meetingorganizer.copernicus.org/EGU25/session/52677
+[egu25-13551]: https://meetingorganizer.copernicus.org/EGU25/EGU25-13551.html
+[doi]: https://doi.org/10.5194/egusphere-egu25-13551
