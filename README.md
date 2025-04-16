@@ -23,13 +23,13 @@ and Lindsey Heagy<sup>1</sup>
 
 ## Poster
 
-![EGU25 Poster](https://github.com/santisoler/egu2025/raw/main/poster/poster.png)
+![EGU25 Poster](https://github.com/santisoler/egu2025/raw/poster/poster/poster.png)
 
 Download poster as
 
-[PNG](https://github.com/santisoler/egu2025/raw/main/poster/poster.png),
-[PDF](https://github.com/santisoler/egu2025/raw/main/poster/poster.pdf) or
-[SVG](https://github.com/santisoler/egu2025/raw/main/poster/poster.svg).
+[PNG](https://github.com/santisoler/egu2025/raw/poster/poster/poster.png),
+[PDF](https://github.com/santisoler/egu2025/raw/poster/poster/poster.pdf) or
+[SVG](https://github.com/santisoler/egu2025/raw/poster/poster/poster.svg).
 
 The poster has also been archived in figshare under the following doi:
 [10.6084/m9.figshare.28811126][poster-doi].
