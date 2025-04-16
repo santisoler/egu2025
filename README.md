@@ -26,7 +26,6 @@ and Lindsey Heagy<sup>1</sup>
 ![EGU25 Poster](https://github.com/santisoler/egu2025/raw/poster/poster/poster.png)
 
 Download poster as
-
 [PNG](https://github.com/santisoler/egu2025/raw/poster/poster/poster.png),
 [PDF](https://github.com/santisoler/egu2025/raw/poster/poster/poster.pdf) or
 [SVG](https://github.com/santisoler/egu2025/raw/poster/poster/poster.svg).
